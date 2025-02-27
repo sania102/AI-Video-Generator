@@ -1,0 +1,9 @@
+opencv-python
+librosa
+moviepy
+gTTS
+PILLOW
+torch
+transformers
+flask
+requests
